@@ -36,16 +36,16 @@ button {
   appearance: none;
   border-radius: 19px;
   padding: 8px 16px;
-  background: transparent;
-  color: black;
+  background: navy;
+  color: white;
   border: none;
-  font-size: 1.2rem;
+  font-size: 1rem;
   cursor: pointer;
   border: 2px solid navy;
 }
 
 button:hover {
-  background: navy;
+  background: rgb(24, 0, 102);
   color: white;
 }
 

@@ -15,7 +15,7 @@ export default function GifExpertApp() {
 
   return (
     <>
-      <h1>GifExpertApp</h1>
+      <h1>Gif App</h1>
       <div className='control-box'>
         <div className='search-box'>
           <AddCategory onNewCategory={onAddCategory} />
