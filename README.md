@@ -1,7 +1,7 @@
 ## Giphy Api playground
 
 deps:
-`yarn`
+`yarn install`
 
 run:
 `yarn dev`
